@@ -1,5 +1,7 @@
 # Demo: Sample TypeScript Project with Jasmine, Karma and Gulp
 
+[![Join the chat at https://gitter.im/tonysneed/Demo.VSCode.TypeScript](https://badges.gitter.im/tonysneed/Demo.VSCode.TypeScript.svg)](https://gitter.im/tonysneed/Demo.VSCode.TypeScript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 1. Open a Terminal at the project root and execute the following scripts.
 
   - Install npm packages. A **node_modules** folder will be created with 
