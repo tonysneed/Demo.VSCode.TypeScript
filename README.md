@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/tonysneed/Demo.VSCode.TypeScript.svg?branch=master)](https://travis-ci.org/tonysneed/Demo.VSCode.TypeScript)
 # Demo: Sample Visual Studio Code project for TypeScript
 
 1. You should first install the following **extensions** for Visual Studio Code.
