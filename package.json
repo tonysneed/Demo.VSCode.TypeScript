@@ -1,7 +1,7 @@
 {
-  "name": "Demo.TsJasmineKarmaGulp",
+  "name": "Demo.VSCode.TypeScript",
   "version": "1.0.0",
-  "description": "Set Up a TypeScript Project with Jasmine, Karma, and Gulp",
+  "description": "Sample TypeScript project with Jasmine, Karma and Gulp",
   "main": "index.js",
   "scripts": {
     "init": "npm install",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tonysneed/Demo.TsJasmineKarmaGulp.git"
+    "url": "git+https://github.com/tonysneed/Demo.VSCode.TypeScript.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tonysneed/Demo.TsJasmineKarmaGulp/issues"
+    "url": "https://github.com/tonysneed/Demo.VSCode.TypeScript/issues"
   },
-  "homepage": "https://github.com/tonysneed/Demo.TsJasmineKarmaGulp#readme",
+  "homepage": "https://github.com/tonysneed/Demo.VSCode.TypeScript#readme",
   "devDependencies": {
     "browser-sync": "^2.11.0",
     "del": "^2.2.0",

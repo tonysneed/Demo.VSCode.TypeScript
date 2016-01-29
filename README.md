@@ -1,4 +1,4 @@
-# Demo: TypeScript Project with Jasmine, Karma and Gulp
+# Demo: Sample TypeScript Project with Jasmine, Karma and Gulp
 
 1. Open a Terminal at the project root and execute the following scripts.
 
