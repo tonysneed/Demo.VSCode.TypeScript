@@ -1,7 +1,7 @@
 {
   "name": "Demo.VSCode.TypeScript",
   "version": "1.0.0",
-  "description": "Sample TypeScript project with Jasmine, Karma and Gulp",
+  "description": "Sample Visual Studio Code project for TypeScript",
   "main": "index.js",
   "scripts": {
     "init": "npm install",
