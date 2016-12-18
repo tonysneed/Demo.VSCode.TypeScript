@@ -1,6 +1,10 @@
 [![Build Status](https://travis-ci.org/tonysneed/Demo.VSCode.TypeScript.svg?branch=master)](https://travis-ci.org/tonysneed/Demo.VSCode.TypeScript)
 # Demo: Sample Visual Studio Code project for TypeScript
 
+*NOTE: This generator is designed to work only on Mac OS X or Linux. 
+To work on Windows, a number of issues will need to be addressed, 
+including differences in file paths.*
+
 1. You should first install the following **extensions** for Visual Studio Code.
   - [VS Code JSHint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint): ```jshint```
   - [VS Code TSHint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint): ```tslint```
@@ -16,13 +20,6 @@
 
     ```
     npm run init
-    ```
-    
-  - Install type definitions. A **typings** folder will be created 
-    with library type definitions.
-    
-    ```
-    npm run typings
     ```
     
   - Compile TypeScript files. A **dist** folder will be created with files
